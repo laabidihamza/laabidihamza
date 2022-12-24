@@ -22,5 +22,5 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
-   <a href="https://github.com/laabidihamza"><img alt="laabidihamza's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=laabidihamza&custom_title=laabidihamza's%20Contribution%20Graph&theme=tokyonight" /></a>
+   <a href="https://github.com/laabidihamza"><img alt="laabidihamza's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=laabidihamza&custom_title=laabidihamza's%20Contribution%20Graph&theme=react" /></a>
    
