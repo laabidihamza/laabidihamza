@@ -17,8 +17,7 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 ## Stats
 ![laabidihamza GitHub stats](https://github-readme-stats.vercel.app/api?username=laabidihamza&show-icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laabidihamza&theme=radical)](https://git.io/streak-stats) 
-![laabidihamza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laabidihamza&layout=compact&theme=radical)
-
+[![laabidihamza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laabidihamza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
    <a href="https://github.com/laabidihamza"><img alt="laabidihamza's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=laabidihamza&custom_title=laabidihamza's%20Contribution%20Graph&theme=react" /></a>
