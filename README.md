@@ -5,7 +5,7 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 
 
 - 🌱 I’m currently learning ReactJs.
-- 🔭 I’m currently working on two school projects.
+- 🔭 I’m currently working on two projects.
 - ⚡ I like to read books, cycling & ... .
 
 ---------------------------------------------------------------------------------------------------------------
