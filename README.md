@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate about learning new technologies and making Web Applications!
+My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate about learning new technologies and making Web applications!
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis+Student;Frontend+Web+Developer&center=false&width=500&height=50">
