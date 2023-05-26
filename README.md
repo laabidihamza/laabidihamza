@@ -1,7 +1,7 @@
 
-## Hi there 👋
+### Hi there 👋
 
-My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate about learning new technologies and making Web applications!
+I'm Hamza Laabidi, a passionate Big Data and Data Analysis student, as well as a Full Stack Developer. I thrive on turning complex data into meaningful insights and building robust applications that make a difference.
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis+Student;Full+Stack+Web+Developer&center=false&width=500&height=50">
@@ -12,9 +12,6 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 - 🌱 I’m currently learning ReactJs
 - 🔭 I’m currently working on two projects
 - ⚡ I like to read books, cycling & ... 
-
-![](https://komarev.com/ghpvc/?username=laabidihamza)
-![](https://badges.pufler.dev/visits/laabidihamza/laabidihamza?color=black&logo=github&style=flat-square)
 
 **Languages and Tools:** 
 
@@ -27,6 +24,10 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></code>
+
+![](https://komarev.com/ghpvc/?username=laabidihamza)
+![](https://badges.pufler.dev/visits/laabidihamza/laabidihamza?color=black&logo=github&style=flat-square)
+
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
 
