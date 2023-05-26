@@ -1,5 +1,5 @@
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Hamza Laabidi, a passionate Big Data and Data Analysis student, as well as a Full Stack Developer. I thrive on turning complex data into meaningful insights and building robust applications that make a difference.
 
