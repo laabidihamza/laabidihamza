@@ -7,9 +7,28 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis+Student;Full+Stack+Web+Developer&center=false&width=500&height=50">
 </a>
 
-- 🌱 I’m currently learning ReactJs.
-- 🔭 I’m currently working on two projects.
-- ⚡ I like to read books, cycling & ... .
+- ⚡ I have a curious mind about discovering how things in the world are made
+- ❤️ I love exploring the world of data to uncover useful insights.
+- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on two projects
+- ⚡ I like to read books, cycling & ... 
+
+![](https://komarev.com/ghpvc/?username=laabidihamza)
+![](https://badges.pufler.dev/visits/laabidihamza/laabidihamza?color=black&logo=github&style=flat-square)
+
+**Languages and Tools:** 
+
+<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
+<code><img height="20" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></code>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abidi-hamza/)
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
