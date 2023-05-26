@@ -27,9 +27,6 @@ My name is Hamza Laabidi and I'm a big data student at ISAMM, I'm passionate abo
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></code>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abidi-hamza/)
-
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
 
