@@ -40,5 +40,6 @@ I'm Hamza Laabidi, a passionate Big Data and Data Analysis student, as well as a
 [![laabidihamza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laabidihamza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
-   <a href="https://github.com/laabidihamza"><img alt="laabidihamza's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=laabidihamza&custom_title=laabidihamza's%20Contribution%20Graph&theme=react" /></a>
+
+[![Hamza Laabidi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laabidihamza&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
