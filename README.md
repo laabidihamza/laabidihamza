@@ -36,7 +36,7 @@ I'm Hamza Laabidi, a Big Data and Data Analysis graduate, as well as a Full Stac
 ---------------------------------------------------------------------------------------------------------------
 ## Stats
 ![laabidihamza GitHub stats](https://github-readme-stats.vercel.app/api?username=laabidihamza&show-icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=user=laabidihamza&theme=radica)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laabidihamza&theme=radical)](https://git.io/streak-stats)
 [![laabidihamza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laabidihamza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
