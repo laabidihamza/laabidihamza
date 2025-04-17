@@ -4,7 +4,7 @@
 I'm Hamza Laabidi, a Big Data and Data Analysis graduate, as well as a Full Stack Developer. I thrive on turning complex data into meaningful insights and building robust applications that make a difference.
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Full+Stack+Web+Developer&center=false&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;NLP+Specialist&center=false&width=500&height=50">
 </a>
 
 - ⚡ I have a curious mind about discovering how things in the world are made
