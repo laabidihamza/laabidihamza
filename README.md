@@ -66,21 +66,6 @@ I enjoy transforming complex data into actionable insights and building intellig
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=laabidihamza&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![laabidihamza GitHub stats](https://github-readme-stats.vercel.app/api?username=laabidihamza&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=laabidihamza&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laabidihamza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
----
-
 ## 📈 Recent GitHub Activity
 
 [![Hamza Laabidi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laabidihamza&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -88,7 +73,6 @@ I enjoy transforming complex data into actionable insights and building intellig
 ---
 
 ### 📫 Let's Connect
-- 💼 Open to **AI / Data Science / Full Stack opportunities**
 - 🤝 Interested in **collaborations & open-source projects**
-
+  
 ⭐ *If you like my work, feel free to star my repositories!*
