@@ -4,7 +4,7 @@ I'm **Hamza Laabidi**, a **Master’s student in Data Science**, **Big Data & Da
 I enjoy transforming complex data into actionable insights and building intelligent, scalable applications 🚀.
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;NLP+Enthusiast;AI+Research+Intern;Full+Stack+Developer&center=false&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;NLP+and+AI+Enthusiast&center=false&width=600&height=50">
 </a>
 
 ---
@@ -14,10 +14,8 @@ I enjoy transforming complex data into actionable insights and building intellig
 - 🎓 Master’s student in **Data Science**
 - 🤖 Strong interest in **AI, NLP, Machine Learning & LLMs**
 - 🧠 Experience with **RAG systems, recommendation systems & data mining**
-- ⚙️ Full Stack Developer (**Next.js, NestJS, REST APIs**)
 - ☁️ Hands-on with **Docker, Jenkins, Cloud (AWS / Azure basics)**
-- ⚖️ Currently involved in **Legal-Tech AI R&D projects**
-- 🌱 Learning **Next.js advanced patterns & scalable backend architectures**
+- ⚖️ Currently involved in **AI R&D projects**
 - 📊 Love working with **Spark, PySpark & Big Data pipelines**
 - 🚴‍♂️ Outside tech: **books, cycling & continuous learning**
 
@@ -70,6 +68,7 @@ I enjoy transforming complex data into actionable insights and building intellig
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=laabidihamza&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
