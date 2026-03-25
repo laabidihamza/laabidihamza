@@ -61,12 +61,20 @@ I enjoy transforming complex data into actionable insights and building intellig
 
 ---
 
+### Stats
+
+![Hamza Laabidi GitHub stats](https://github-readme-stats.vercel.app/api?username=laabidihamza&show-icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laabidihamza&theme=dark)](https://git.io/streak-stats)
+
+[![Hamza Laabidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laabidihamza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=laabidihamza)
 ![](https://badges.pufler.dev/visits/laabidihamza/laabidihamza?color=black&logo=github&style=flat-square)
 
 ---
 
-## 📈 Recent GitHub Activity
+### 📈 Recent GitHub Activity
 
 [![Hamza Laabidi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laabidihamza&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
